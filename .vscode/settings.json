@@ -1,0 +1,41 @@
+{
+	"cSpell.words": [
+		"Mtpa"
+	],
+	"files.associations": {
+		"*.cps": "javascript",
+		"array": "c",
+		"*.tcc": "c",
+		"bitset": "c",
+		"functional": "c",
+		"mutex": "c",
+		"tuple": "c",
+		"variant": "c",
+		"chrono": "c",
+		"__config": "c",
+		"__tuple": "c",
+		"ios": "c",
+		"span": "c",
+		"string": "c",
+		"string_view": "c",
+		"vector": "c",
+		"kernel.h": "c",
+		"init.h": "c",
+		"module.h": "c",
+		"virtio_dma_buf.h": "c",
+		"virtio_mmio.h": "c",
+		"virtio_input.h": "c",
+		"virtio_gpio.h": "c",
+		"virtio_console.h": "c",
+		"virtio.h": "c",
+		"virtio_i2c.h": "c",
+		"vringh.h": "c",
+		"virtio_ring.h": "c",
+		"virtio_config.h": "c",
+		"domain.h": "c",
+		"globals.h": "c",
+		"master.h": "c",
+		"*.inc": "bitbake",
+		"*.conf": "bitbake"
+	}
+}
